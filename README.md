@@ -1,4 +1,5 @@
 [![@vinitshahdeo's Holopin board](https://holopin.me/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
+
 # 🦖 holopin
 
 **Holopin (unofficial) SDK for getting your badges programmatically in JavaScript/TypeScript.**
@@ -36,7 +37,7 @@ This returns the list of badges. Below is response structure:
   }
 }
 ```
-> Please refer to [sample.json](./sample.json) for the sample response.
+> Please refer to [sample.json](./data/sample.json) for the sample response.
 
 Alternatively, you can also use it with Callback or Async/Await.
 
