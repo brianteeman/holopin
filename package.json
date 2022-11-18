@@ -1,6 +1,6 @@
 {
   "name": "holopin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Holopin (unofficial) SDK for getting your badges programmatically",
   "main": "src/index.js",
   "scripts": {
