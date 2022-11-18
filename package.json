@@ -1,0 +1,31 @@
+{
+  "name": "holopin",
+  "version": "1.0.0",
+  "description": "Unofficial SDK for Holopin",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitshahdeo/holopin.git"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "keywords": [
+    "holopin",
+    "badges",
+    "digital",
+    "api"
+  ],
+  "author": "Vinit Shahdeo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinitshahdeo/holopin/issues"
+  },
+  "homepage": "https://github.com/vinitshahdeo/holopin#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
