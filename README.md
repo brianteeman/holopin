@@ -4,27 +4,27 @@
 
 > [Holopin](https://www.holopin.io/) is a platform that allows you to **issue digital badges** that people love ━ this is for you if you love collecting badges. Here's my collection: [holopin.io/vinitshahdeo](https://www.holopin.io/vinitshahdeo)
 
-## Usage
-
-### Install
+## Installation
 
 ```
 npm i holopin
 ```
 
-### API
+## Usage
+
 
 ```javascript
 const holopin = require('holopin');
+```
+
+### Using Promise
 
 holopin('vinitshahdeo')
     .then((badges) => console.log(badges))
     .catch(console.log);
 ```
 
-```
-```
-Using callback
+### Using callback
 
 ```javascript
 
@@ -39,7 +39,7 @@ holopin('vinitshahdeo', (err, badges) => {
 
 ```
 
-Using Async/await
+### Using Async/await
 
 ```javascript
 (async () => {
@@ -57,4 +57,3 @@ Using Async/await
 Vinit Shahdeo ❯ **[@vinitshahdeo](https://github.com/vinitshahdeo)**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
-
