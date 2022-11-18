@@ -1,10 +1,9 @@
+[![@vinitshahdeo's Holopin board](https://holopin.me/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
 # 🦖 holopin
 
 **Holopin SDK for getting your badges programmatically in JavaScript/TypeScript.**
 
 > [Holopin](https://www.holopin.io/) is a platform that allows you to **issue digital badges** that people love ━ this is for you if you love collecting badges. Here's my collection: [holopin.io/vinitshahdeo](https://www.holopin.io/vinitshahdeo)
-
-[![@vinitshahdeo's Holopin board](https://holopin.me/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
 
 ## Installation
 
