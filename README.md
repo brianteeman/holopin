@@ -4,6 +4,8 @@
 
 **Holopin (unofficial) SDK for getting your badges programmatically in JavaScript/TypeScript.**
 
+[![npm-holopin](https://img.shields.io/npm/v/holopin?logo=npm)](https://www.npmjs.com/package/holopin)
+
 > [Holopin](https://www.holopin.io/) is a platform that allows you to **issue digital badges** that people love ━ **this is for you if you love collecting badges**. Here's my collection: [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo)
 
 ## Installation
