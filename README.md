@@ -79,7 +79,8 @@ Vinit Shahdeo ❯ **[@vinitshahdeo](https://github.com/vinitshahdeo)**
    <br/>
    <br/>
    ✨🦖✨🦖✨🦖✨🦖✨🦖✨🦖✨ <br/>
-   <strong>Huge shout-out to <a href='https://www.holopin.io/'>Holopin.io</a></strong>
+   <strong>Huge shout-out to <a href='https://www.holopin.io/'>Holopin.io</a></strong><br/>
+   <sup>Collect <a href='https://www.holopin.io/'>your digital badges</a> on Holopin!</sup>
    <br/>
    <br/>
 </div>
