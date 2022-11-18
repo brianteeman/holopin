@@ -2,7 +2,7 @@
 
 # 🦖 holopin
 
-**Holopin (unofficial) SDK for getting your badges programmatically in JavaScript/TypeScript.**
+**Holopin (unofficial) SDK for getting a list of your badges programmatically in JavaScript/TypeScript.**
 
 [![npm-holopin](https://img.shields.io/npm/v/holopin?logo=npm)](https://www.npmjs.com/package/holopin) ![GitHub](https://img.shields.io/github/license/vinitshahdeo/holopin?logo=github)
 
