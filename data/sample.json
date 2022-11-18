@@ -1,0 +1,140 @@
+{
+  "data": {
+    "count": 7,
+    "stickers": [
+      {
+        "id": "cl8d61lai012009mht3cqjm4k",
+        "name": "Hacktoberfest 2022: Registered",
+        "description": "Participants that registered for Hacktoberfest 2022 are rewarded with this badge.",
+        "notes": null,
+        "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+        "organization": {
+          "name": "Hacktoberfest",
+          "username": "hacktoberfest",
+          "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNXNoOTYwMDIxMDlqdXZhOW1tMjE3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+          "description": "Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors."
+        },
+        "UserSticker": [
+          {
+            "id": "cl9fphua5143309mhtscussmb",
+            "image": null
+          }
+        ]
+      },
+      {
+        "id": "cl8d6fszt019709mhnybchlxv",
+        "name": "Hacktoberfest 2022: Level 1",
+        "description": "Contributors that submitted one accepted PR/MR for Hacktoberfest 2022 are rewarded with this badge.",
+        "notes": null,
+        "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+        "organization": {
+          "name": "Hacktoberfest",
+          "username": "hacktoberfest",
+          "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNXNoOTYwMDIxMDlqdXZhOW1tMjE3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+          "description": "Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors."
+        },
+        "UserSticker": [
+          {
+            "id": "cl99ab6v7154409mqgt7yzs7s",
+            "image": null
+          }
+        ]
+      },
+      {
+        "id": "cl8d89phz003209if46e68ylc",
+        "name": "Hacktoberfest 2022: Level 2",
+        "description": "Contributors that submitted two accepted PR/MRs for Hacktoberfest 2022 are rewarded with this badge.",
+        "notes": null,
+        "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+        "organization": {
+          "name": "Hacktoberfest",
+          "username": "hacktoberfest",
+          "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNXNoOTYwMDIxMDlqdXZhOW1tMjE3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+          "description": "Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors."
+        },
+        "UserSticker": [
+          {
+            "id": "cl99a9j5g448809jx1etl0bn1",
+            "image": null
+          }
+        ]
+      },
+      {
+        "id": "cl8d8tlob004809jnk46q2mq6",
+        "name": "Hacktoberfest 2022: Level 3",
+        "description": "Contributors that submitted three accepted PR/MRs for Hacktoberfest 2022 are rewarded with this badge.",
+        "notes": null,
+        "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+        "organization": {
+          "name": "Hacktoberfest",
+          "username": "hacktoberfest",
+          "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNXNoOTYwMDIxMDlqdXZhOW1tMjE3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+          "description": "Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors."
+        },
+        "UserSticker": [
+          {
+            "id": "cl99abap8160109mqls9qz5yf",
+            "image": null
+          }
+        ]
+      },
+      {
+        "id": "cl8d8ulqc010909jneej9ope8",
+        "name": "Hacktoberfest 2022: Level 4",
+        "description": "Contributors that submitted four accepted PR/MRs for Hacktoberfest 2022 are rewarded with this badge.",
+        "notes": null,
+        "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+        "organization": {
+          "name": "Hacktoberfest",
+          "username": "hacktoberfest",
+          "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNXNoOTYwMDIxMDlqdXZhOW1tMjE3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+          "description": "Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors."
+        },
+        "UserSticker": [
+          {
+            "id": "cl9jnolhi095509mmnyjwk9co",
+            "image": null
+          }
+        ]
+      },
+      {
+        "id": "cl9fs6otg1033309lc2a4iguqa",
+        "name": "Surfer Moby Dock",
+        "description": "A special surprise from Docker for Hacktoberfest participants!\nMoby Dock, a cartoon whale that hauls shipping containers on its back, is the mascot of Docker.",
+        "notes": "This badge is awarded to all Hacktoberfest 2022 participants.",
+        "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczZqdWgxNjI1ODA5bWkyNXAyNjRtbiIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19",
+        "organization": {
+          "name": "Docker",
+          "username": "docker",
+          "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczh4YTgxNzEzNzA5bWlsZWw5cm5ubyIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19",
+          "description": "Docker helps developers bring their ideas to life by conquering the complexity of app development."
+        },
+        "UserSticker": [
+          {
+            "id": "cla4gmyt3265808mdb9wwsfk7",
+            "image": null
+          }
+        ]
+      },
+      {
+        "id": "clajxr22y044908jsu37gv2mi",
+        "name": "Appwrite Hacktoberfest 2022",
+        "description": "This badge is a token of appreciation from the Appwrite team for taking part in Hacktoberfest 2022. Thank you for being awesome in helping grow the open source community!",
+        "notes": "This badge is awarded to all Hacktoberfest 2022 participants. Appwrite is a sponsor of the event.",
+        "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeHF4eTUwNDMzMDhqc3k3bXp1NmlwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+        "organization": {
+          "name": "Appwrite",
+          "username": "appwrite",
+          "image": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeG9pbHIxMDE1MDhtNm93czkxOW54IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+          "description": "The Open-Source Backend-as-a-Service."
+        },
+        "UserSticker": [
+          {
+            "id": "clamfjheb344908mqzsr6oknl",
+            "image": null
+          }
+        ]
+      }
+    ]
+  }
+}

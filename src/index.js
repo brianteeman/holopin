@@ -1,10 +1,6 @@
 const axios = require('axios'),
   BASE_URL = 'https://www.holopin.io',
   ERROR_MSG = 'Username is missing! Please provide your Holopin username.',
-
-	/**
-	 * Fetch badges for given Holopin username
-	 */
   getBadges = async (username) => {
     const config = {
       url: '/api/stickers',
