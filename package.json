@@ -1,7 +1,7 @@
 {
   "name": "holopin",
   "version": "1.0.0",
-  "description": "Unofficial SDK for Holopin",
+  "description": "Holopin (unofficial) SDK for getting your badges programmatically",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,10 @@
     "digital",
     "api"
   ],
-  "author": "Vinit Shahdeo",
+  "author": {
+    "name": "Vinit Shahdeo",
+    "url": "https://vinitshahdeo.dev/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vinitshahdeo/holopin/issues"
