@@ -2,6 +2,8 @@
 
 Holopin SDK for getting your badges programmatically in JavaScript/TypeScript.
 
+> **Note**: [Holopin](https://www.holopin.io/) is a platform that allows you to issue digital badges that people love.
+
 ## Usage
 
 ### Install
