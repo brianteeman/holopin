@@ -6,7 +6,7 @@
 
 ## Installation
 
-```
+```bash
 npm i holopin
 ```
 
@@ -19,6 +19,7 @@ const holopin = require('holopin');
 
 ### Using Promise
 
+```javascript
 holopin('vinitshahdeo')
     .then((badges) => console.log(badges))
     .catch(console.log);
