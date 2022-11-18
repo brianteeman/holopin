@@ -16,26 +16,26 @@ npm i holopin
 To use this, you need to provide your **Holopin** username. If you don't have one, [create your profile](https://www.holopin.io/) to get your username.
 
 ```javascript
-const holopin = require('holopin');
+const holopin = require("holopin");
 
 // replace 'vinitshahdeo' with your username
-holopin('vinitshahdeo')
-    .then((badges) => console.log(badges))
-    .catch(console.log);
+holopin("vinitshahdeo")
+  .then((badges) => console.log(badges))
+  .catch(console.log);
 ```
 
 You can also use it with Callback or Async/Await.
 #### Using callback
 
 ```javascript
-holopin('vinitshahdeo', (err, badges) => {
-    if (err) {
-        console.log(err);
-        return;
-    }
+holopin("vinitshahdeo", (err, badges) => {
+  if (err) {
+    console.log(err);
+    return;
+  }
 
-    console.log(badges);
-})
+  console.log(badges);
+});
 ```
 
 #### Using Async/await
@@ -43,7 +43,7 @@ holopin('vinitshahdeo', (err, badges) => {
 ```javascript
 (async () => {
   try {
-    let badges = await holopin('vinitshahdeo');
+    let badges = await holopin("vinitshahdeo");
     console.log(badges);
   } catch (err) {
     // handle errors here
