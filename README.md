@@ -24,7 +24,20 @@ holopin("vinitshahdeo")
   .catch(console.log);
 ```
 
-You can also use it with Callback or Async/Await.
+This returns the list of badges. Below is response structure:
+
+```javascript
+{
+  "data": {
+    "count": 7,
+    "stickers": []
+  }
+}
+```
+> Please refer to [sample.json](./sample.json) for the sample response.
+
+Alternatively, you can also use it with Callback or Async/Await.
+
 #### Using callback
 
 ```javascript
