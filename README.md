@@ -1,9 +1,9 @@
 [![@vinitshahdeo's Holopin board](https://holopin.me/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
 # 🦖 holopin
 
-**Holopin SDK for getting your badges programmatically in JavaScript/TypeScript.**
+**Holopin (unofficial) SDK for getting your badges programmatically in JavaScript/TypeScript.**
 
-> [Holopin](https://www.holopin.io/) is a platform that allows you to **issue digital badges** that people love ━ this is for you if you love collecting badges. Here's my collection: [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo)
+> [Holopin](https://www.holopin.io/) is a platform that allows you to **issue digital badges** that people love ━ **this is for you if you love collecting badges**. Here's my collection: [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo)
 
 ## Installation
 
@@ -16,10 +16,10 @@ npm i holopin
 To use this, you need to provide your **Holopin** username. If you don't have one, [create your profile](https://www.holopin.io/) to get your username.
 
 ```javascript
-const holopin = require("holopin");
+const holopin = require('holopin');
 
 // replace 'vinitshahdeo' with your username
-holopin("vinitshahdeo")
+holopin('vinitshahdeo')
   .then((badges) => console.log(badges))
   .catch(console.log);
 ```
@@ -28,9 +28,11 @@ This returns the list of badges. Below is response structure:
 
 ```javascript
 {
-  "data": {
-    "count": 7,
-    "stickers": []
+  data: {
+    count: 7,
+    stickers: [
+      // list of badges
+    ]
   }
 }
 ```
@@ -41,7 +43,7 @@ Alternatively, you can also use it with Callback or Async/Await.
 #### Using callback
 
 ```javascript
-holopin("vinitshahdeo", (err, badges) => {
+holopin('vinitshahdeo', (err, badges) => {
   if (err) {
     console.log(err);
     return;
@@ -56,7 +58,7 @@ holopin("vinitshahdeo", (err, badges) => {
 ```javascript
 (async () => {
   try {
-    let badges = await holopin("vinitshahdeo");
+    let badges = await holopin('vinitshahdeo');
     console.log(badges);
   } catch (err) {
     // handle errors here
