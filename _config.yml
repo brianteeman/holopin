@@ -1,4 +1,9 @@
-remote_theme: mmistakes/so-simple-theme@3.2.0
+remote_theme: chesterhow/tale
+
+author:
+  name: Vinit Shahdeo
+  url: https://vinitshahdeo.dev
+  email: vinitshahdeo@gmail.com
 
 social:
   facebook: # Add your Facebook handle
