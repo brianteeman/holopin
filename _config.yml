@@ -1,1 +1,10 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: nielsenramon/chalk
+
+social:
+  facebook: # Add your Facebook handle
+  github: vinitshahdeo # Add your GitHub handle
+  linkedin: # Add your LinkedIn handle
+  twitter: vinitshahdeo # Add your Twitter handle
+  instagram: vinitshahdeo
+  medium: # Add your Medium handle
+  stackoverflow: # Add your Stack Overflow ID number
