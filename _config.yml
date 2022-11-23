@@ -1,14 +1,1 @@
-remote_theme: sighingnow/jekyll-gitbook
-author:
-  name: Vinit Shahdeo
-  url: https://vinitshahdeo.dev
-  email: vinitshahdeo@gmail.com
-
-social:
-  facebook: # Add your Facebook handle
-  github: vinitshahdeo # Add your GitHub handle
-  linkedin: # Add your LinkedIn handle
-  twitter: vinitshahdeo # Add your Twitter handle
-  instagram: vinitshahdeo
-  medium: # Add your Medium handle
-  stackoverflow: # Add your Stack Overflow ID number
+theme: jekyll-theme-minima;
