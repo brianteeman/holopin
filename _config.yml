@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: sighingnow/jekyll-gitbook
 author:
   name: Vinit Shahdeo
   url: https://vinitshahdeo.dev
